@@ -1,0 +1,36 @@
+p{
+    background-color: aquamarine;
+    /*padding: 10px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;*/
+
+    padding: 50px 0px 20px 20px;
+
+    /*BORDE*/
+    border-top: 20px double black;
+    border-right: 5 solid red;
+    border-left: 10px dashed green;
+    border-bottom: 6px groove rgb(10, 23, 56);
+
+    border-width: 20px 20px 20px 20px;
+    border-style: dotted solid none double;
+    
+}
+
+a{
+    background-color: maroon;
+    display: inline-block;
+    color: white;
+    width: 100px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+}
+main{
+    background-color: tomato;
+}
